@@ -31,7 +31,7 @@ WHERE department_id = 50)
 WHERE drank in (1, 2, 3);
 
 
---4. Show first name, last name, salary and previously listed employee’s salary who works in “IT_PROG” over hire date.
+--4. Show first name, last name, salary and previously listed employeeâ€™s salary who works in â€œIT_PROGâ€ over hire date.
 
 select 
 first_name, last_name, hire_date, salary, job_id, 
